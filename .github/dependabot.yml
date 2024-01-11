@@ -5,9 +5,9 @@
 
 version: 2
 updates:
-  - package-ecosystem: "nuget"
+  - package-ecosystem: "npm"
     target-branch: "master"
-    directory: "/src/api"
+    directory: "/src/"
     labels: []
     ignore:
        - dependency-name: "*"
