@@ -10,11 +10,11 @@ updates:
     directory: "/src/"
     labels: []
     ignore:
-       - dependency-name: "*"
-    update-types: ["version-update:semver-major"]
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
     schedule:
-    interval: "daily"
-    time: "02:00"
+      interval: "daily"
+      time: "02:00"
     commit-message:
-        prefix: "build(deps): "
+      prefix: "build(deps): "
     open-pull-requests-limit: 10
