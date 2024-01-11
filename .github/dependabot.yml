@@ -7,7 +7,7 @@ version: 2
 updates:
   - package-ecosystem: "npm"
     target-branch: "master"
-    directory: "/src/"
+    directory: "/"
     labels: []
     ignore:
       - dependency-name: "*"
