@@ -14,7 +14,7 @@ updates:
         update-types: ["version-update:semver-major"]
     schedule:
       interval: "daily"
-      time: "02:00"
+      time: "13:10"
     commit-message:
       prefix: "build(deps): "
     open-pull-requests-limit: 10
