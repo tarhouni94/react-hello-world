@@ -39,9 +39,9 @@
   version "6.0.78"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-6.0.78.tgz#5d4a3f579c1524e01ee21bf474e6fba09198f470"
 
-"@types/node@^7.0.18":
-  version "7.0.18"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-7.0.18.tgz#cd67f27d3dc0cfb746f0bdd5e086c4c5d55be173"
+"@types/node@^7.10.14":
+  version "7.10.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-7.10.14.tgz#06fa7319b8131b969a8da4a14c487e6f28abacf7"
 
 "@types/react-dom@^16.0.3":
   version "16.0.3"
