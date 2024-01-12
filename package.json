@@ -37,7 +37,7 @@
     "@types/sinon": "^2.3.1",
     "@types/sinon-chai": "^2.7.28",
     "chai": "^4.0.2",
-    "cpr": "^2.0.2",
+    "cpr": "^2.2.0",
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-16": "^1.1.0",
     "fuse-box": "2.0.0",
